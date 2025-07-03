@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student CEO Network</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Student CEO Network</h1>
+    <p>Empowering Young Entrepreneurs in PNG</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>We inspire and train students to become future CEOs by starting small businesses.</p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Email us at: studentceonetwork@gmail.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Student CEO Network</p>
+  </footer>
+
+</body>
+</html>
